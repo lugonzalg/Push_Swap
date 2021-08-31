@@ -1,0 +1,5459 @@
+LIST[1]: 0
+LIST[1]: -479212737
+DIGIT: 1POS: 1 -- 0
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 1[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+pb
+POS: 0 -- 0
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 2[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 1[0;m		[1;34mHEAD_A_REF: 0x602000000130[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 3[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 2[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_A_CONT: 1[0;m		[1;34mTAIL_A_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 4[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 2[0;m		[1;34mHEAD_A_REF: 0x602000000170[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 123[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 5[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 123[0;m		[1;34mHEAD_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 2[0;m		[1;34mTAIL_A_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 6[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 924[0;m		[1;34mHEAD_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 123[0;m		[1;34mTAIL_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 7[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 924[0;m		[1;34mTAIL_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 8[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 12[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_A_CONT: 43[0;m		[1;34mTAIL_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 9[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 12[0;m		[1;34mHEAD_A_REF: 0x602000000210[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 3[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000230[0;m
+
+[1;34mTAIL_A_CONT: 54[0;m		[1;34mTAIL_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 10[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 12[0;m		[1;34mTAIL_A_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 11[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 434[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_A_CONT: 3[0;m		[1;34mTAIL_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 12[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 13[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 434[0;m		[1;34mTAIL_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 14[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 44[0;m		[1;34mTAIL_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 9
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 15[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 1[0;m		[1;34mHEAD_A_REF: 0x602000000130[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 16[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 2[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 17[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 2[0;m		[1;34mHEAD_A_REF: 0x602000000170[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 123[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 18[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 123[0;m		[1;34mHEAD_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 2[0;m		[1;34mTAIL_A_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 19[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 924[0;m		[1;34mHEAD_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 123[0;m		[1;34mTAIL_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 20[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 924[0;m		[1;34mTAIL_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 21[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 12[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_A_CONT: 43[0;m		[1;34mTAIL_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 22[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 12[0;m		[1;34mHEAD_A_REF: 0x602000000210[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 3[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000230[0;m
+
+[1;34mTAIL_A_CONT: 54[0;m		[1;34mTAIL_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 23[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 12[0;m		[1;34mTAIL_A_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 24[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 434[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_A_CONT: 3[0;m		[1;34mTAIL_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 25[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 26[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 434[0;m		[1;34mTAIL_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 27[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 44[0;m		[1;34mTAIL_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 9
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 28[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 2[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 29[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 2[0;m		[1;34mHEAD_A_REF: 0x602000000170[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 123[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 30[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 123[0;m		[1;34mHEAD_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 2[0;m		[1;34mHEAD_B_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 1[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 2 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 31[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 924[0;m		[1;34mHEAD_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 123[0;m		[1;34mTAIL_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_CONT: 2[0;m		[1;34mHEAD_B_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 1[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 32[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 924[0;m		[1;34mTAIL_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_CONT: 2[0;m		[1;34mHEAD_B_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 1[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 33[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 12[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_A_CONT: 43[0;m		[1;34mTAIL_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_CONT: 2[0;m		[1;34mHEAD_B_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 1[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 34[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 12[0;m		[1;34mHEAD_A_REF: 0x602000000210[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 3[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000230[0;m
+
+[1;34mTAIL_A_CONT: 54[0;m		[1;34mTAIL_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_CONT: 2[0;m		[1;34mHEAD_B_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 1[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 35[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 54[0;m		[1;34mTAIL_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 0 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 36[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 434[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_A_CONT: 3[0;m		[1;34mTAIL_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 37[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 38[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 434[0;m		[1;34mTAIL_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 39[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 44[0;m		[1;34mTAIL_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 9
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 40[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 123[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 41[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 123[0;m		[1;34mHEAD_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 42[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 924[0;m		[1;34mHEAD_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 43[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 924[0;m		[1;34mTAIL_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	924
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 44[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 3[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000230[0;m
+
+[1;34mTAIL_A_CONT: 924[0;m		[1;34mTAIL_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	924
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 45[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 54[0;m		[1;34mTAIL_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	924
+CONTENT:	54
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 46[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 434[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_A_CONT: 54[0;m		[1;34mTAIL_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_CONT: 3[0;m		[1;34mHEAD_B_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	924
+CONTENT:	54
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 47[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 3[0;m		[1;34mHEAD_B_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	924
+CONTENT:	54
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 48[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 434[0;m		[1;34mTAIL_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_CONT: 3[0;m		[1;34mHEAD_B_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	924
+CONTENT:	54
+CONTENT:	76
+CONTENT:	434
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 49[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 44[0;m		[1;34mTAIL_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_CONT: 3[0;m		[1;34mHEAD_B_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+CONTENT:	16
+CONTENT:	924
+CONTENT:	54
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 9
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 50[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 3[0;m		[1;34mHEAD_B_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	924
+CONTENT:	54
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 51[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 924[0;m		[1;34mHEAD_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 3[0;m		[1;34mHEAD_B_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	54
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 52[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 3[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000230[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 53[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 434[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 54[0;m		[1;34mHEAD_B_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 54[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 54[0;m		[1;34mHEAD_B_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 2 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 55[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 54[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	9
+CONTENT:	16
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 1 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 56[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+CONTENT:	16
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 0 -- 9
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 57[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	76
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 58[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 16[0;m		[1;34mTAIL_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	9
+CONTENT:	16
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 59[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 76[0;m		[1;34mTAIL_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+CONTENT:	16
+CONTENT:	76
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 0 -- 9
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_A R: 60[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	76
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+ra
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 61[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 44[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 1 -- 6
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_B R: 62[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 76[0;m		[1;34mHEAD_B_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+pb
+POS: 0 -- 9POS: 0 -- 9POS: 0 -- 9DIGIT: 2POS: 0 -- 7
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 63[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 44[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_B_CONT: 76[0;m		[1;34mTAIL_B_REF: 0x602000000250[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 64[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 65[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 54[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_B_CONT: 44[0;m		[1;34mTAIL_B_REF: 0x602000000290[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+rb
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 66[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 54[0;m		[1;34mHEAD_B_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 434[0;m		[1;34mTAIL_B_REF: 0x602000000270[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+rb
+POS: 0 -- 5
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 67[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 3[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000230[0;m
+
+[1;34mTAIL_B_CONT: 54[0;m		[1;34mTAIL_B_REF: 0x6020000001f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 68[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 9[0;m		[1;34mHEAD_A_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 3[0;m		[1;34mHEAD_B_REF: 0x602000000230[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+rb
+POS: 1 --  
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 69[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+pa
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 70[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 43[0;m		[1;34mTAIL_B_REF: 0x6020000001d0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 71[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 2[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_B_CONT: 123[0;m		[1;34mTAIL_B_REF: 0x602000000190[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 72[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 3[0;m		[1;34mHEAD_A_REF: 0x602000000230[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 9[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000002b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 2[0;m		[1;34mHEAD_B_REF: 0x602000000170[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 1[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+rb
+POS: 1 --  
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 73[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 2[0;m		[1;34mHEAD_A_REF: 0x602000000170[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 3[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000230[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 1[0;m		[1;34mHEAD_B_REF: 0x602000000130[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 0[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+pa
+POS: 1 --  
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 74[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 1[0;m		[1;34mHEAD_A_REF: 0x602000000130[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 2[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000170[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 0[0;m		[1;34mHEAD_B_REF: 0x602000000110[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+pa
+POS: 1 --  
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 75[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 76[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+pa
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 76[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 76[0;m		[1;34mHEAD_B_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 7
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 77[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 44[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_B_CONT: 76[0;m		[1;34mTAIL_B_REF: 0x602000000250[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 78[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 79[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 54[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_B_CONT: 44[0;m		[1;34mTAIL_B_REF: 0x602000000290[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+rb
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 80[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 54[0;m		[1;34mHEAD_B_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 434[0;m		[1;34mTAIL_B_REF: 0x602000000270[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+rb
+POS: 0 -- 5
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 81[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 54[0;m		[1;34mTAIL_B_REF: 0x6020000001f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 82[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 83[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 43[0;m		[1;34mTAIL_B_REF: 0x6020000001d0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 84[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 123[0;m		[1;34mTAIL_B_REF: 0x602000000190[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 85[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 76[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 86[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 0[0;m		[1;34mHEAD_A_REF: 0x602000000110[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 1[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000130[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 76[0;m		[1;34mHEAD_B_REF: 0x602000000250[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 7
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 87[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 44[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+pa
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 88[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 89[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 54[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_B_CONT: 44[0;m		[1;34mTAIL_B_REF: 0x602000000290[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+rb
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 90[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 54[0;m		[1;34mHEAD_B_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 434[0;m		[1;34mTAIL_B_REF: 0x602000000270[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+rb
+POS: 0 -- 5
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 91[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 54[0;m		[1;34mTAIL_B_REF: 0x6020000001f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 92[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 93[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 43[0;m		[1;34mTAIL_B_REF: 0x6020000001d0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 94[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 123[0;m		[1;34mTAIL_B_REF: 0x602000000190[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 95[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 96[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 44[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 97[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 98[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 54[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_B_CONT: 44[0;m		[1;34mTAIL_B_REF: 0x602000000290[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+rb
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 99[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 54[0;m		[1;34mHEAD_B_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 434[0;m		[1;34mTAIL_B_REF: 0x602000000270[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+rb
+POS: 0 -- 5
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 100[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 54[0;m		[1;34mTAIL_B_REF: 0x6020000001f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 101[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 102[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 43[0;m		[1;34mTAIL_B_REF: 0x6020000001d0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 103[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 123[0;m		[1;34mTAIL_B_REF: 0x602000000190[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 104[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 105[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 44[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 106[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 107[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 54[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_B_CONT: 44[0;m		[1;34mTAIL_B_REF: 0x602000000290[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+rb
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 108[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 76[0;m		[1;34mHEAD_A_REF: 0x602000000250[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 0[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000110[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 54[0;m		[1;34mHEAD_B_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 434[0;m		[1;34mTAIL_B_REF: 0x602000000270[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+rb
+POS: 0 -- 5
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 109[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 434[0;m		[1;34mTAIL_B_REF: 0x602000000270[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+pa
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 110[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	924
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 111[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 43[0;m		[1;34mTAIL_B_REF: 0x6020000001d0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	924
+CONTENT:	43
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 112[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 123[0;m		[1;34mTAIL_B_REF: 0x602000000190[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 113[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 114[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 44[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	44
+CONTENT:	434
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 115[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 54[0;m		[1;34mHEAD_A_REF: 0x6020000001f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 76[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000250[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 44[0;m		[1;34mHEAD_B_REF: 0x602000000290[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	434
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 116[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+pa
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 117[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 43[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_B_CONT: 434[0;m		[1;34mTAIL_B_REF: 0x602000000270[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	434
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 118[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 44[0;m		[1;34mHEAD_A_REF: 0x602000000290[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 54[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001f0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 43[0;m		[1;34mHEAD_B_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	434
+CONTENT:	924
+rb
+POS: 0 -- 4
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 119[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	434
+CONTENT:	924
+pa
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 120[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 123[0;m		[1;34mTAIL_B_REF: 0x602000000190[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	434
+CONTENT:	924
+CONTENT:	123
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 121[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	16
+CONTENT:	434
+CONTENT:	924
+CONTENT:	123
+CONTENT:	12
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 122[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 434[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	434
+CONTENT:	924
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 123[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 43[0;m		[1;34mHEAD_A_REF: 0x6020000001d0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 44[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000290[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 434[0;m		[1;34mHEAD_B_REF: 0x602000000270[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	924
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+rb
+POS: 1 -- 3
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 124[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+pa
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 125[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 924[0;m		[1;34mTAIL_B_REF: 0x6020000001b0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	924
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 126[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 123[0;m		[1;34mTAIL_B_REF: 0x602000000190[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+CONTENT:	924
+CONTENT:	123
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 127[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	16
+CONTENT:	924
+CONTENT:	123
+CONTENT:	12
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 128[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 924[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	924
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 129[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 434[0;m		[1;34mHEAD_A_REF: 0x602000000270[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 43[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001d0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 924[0;m		[1;34mHEAD_B_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 123[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+rb
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 130[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 924[0;m		[1;34mHEAD_A_REF: 0x6020000001b0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 434[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000270[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 123[0;m		[1;34mHEAD_B_REF: 0x602000000190[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+pa
+POS: 1 -- 2
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 131[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 123[0;m		[1;34mHEAD_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 16[0;m		[1;34mTAIL_B_REF: 0x602000000150[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+CONTENT:	16
+pa
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 132[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 123[0;m		[1;34mHEAD_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 16[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_B_CONT: 12[0;m		[1;34mTAIL_B_REF: 0x602000000210[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	16
+CONTENT:	12
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_ROTATE_B R: 133[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 123[0;m		[1;34mHEAD_A_REF: 0x602000000190[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 924[0;m		[1;34mHEAD_A_NEXT_REF: 0x6020000001b0[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 16[0;m		[1;34mHEAD_B_REF: 0x602000000150[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 12[0;m		[1;34mHEAD_B_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	123
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	12
+CONTENT:	10
+rb
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 134[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 16[0;m		[1;34mHEAD_A_REF: 0x602000000150[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 123[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000190[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 12[0;m		[1;34mHEAD_B_REF: 0x602000000210[0;m
+
+[1;34mHEAD_B_NEXT_CONT: 10[0;m		[1;34mHEAD_B_NEXT_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	10
+pa
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 135[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 12[0;m		[1;34mHEAD_A_REF: 0x602000000210[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 16[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000150[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mHEAD_B_CONT: 10[0;m		[1;34mHEAD_B_REF: 0x6020000000f0[0;m
+
+[1;34mTAIL_B_CONT: 10[0;m		[1;34mTAIL_B_REF: 0x6020000000f0[0;m
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	12
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+pa
+POS: 0 -- 1
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING POST_PUSH_TO_A R: 136[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 10[0;m		[1;34mHEAD_A_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 12[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mhead_B_NULL: [0;m
+
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	12
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+[1;31m	EMPTY[0;m
+pa
+
+[1;32m//////////////////////////////////////////[0;m
+[1;32m	SORT, DOING PROG END R: 137[0;m
+[1;32m//////////////////////////////////////////[0;m
+
+[1;34mHEAD_A_CONT: 10[0;m		[1;34mHEAD_A_REF: 0x6020000000f0[0;m
+
+[1;34mHEAD_A_NEXT_CONT: 12[0;m		[1;34mHEAD_A_NEXT_REF: 0x602000000210[0;m
+
+[1;34mTAIL_A_CONT: 9[0;m		[1;34mTAIL_A_REF: 0x6020000002b0[0;m
+
+[1;34mhead_B_NULL: [0;m
+
+[1;31m__________________________[0;m
+[1;31m	SORT A[0;m
+[1;31m--------------------------[0;m
+CONTENT:	10
+CONTENT:	12
+CONTENT:	16
+CONTENT:	123
+CONTENT:	924
+CONTENT:	434
+CONTENT:	43
+CONTENT:	44
+CONTENT:	54
+CONTENT:	76
+CONTENT:	0
+CONTENT:	1
+CONTENT:	2
+CONTENT:	3
+CONTENT:	9
+
+
+[1;31m__________________________[0;m
+[1;31m	SORT B[0;m
+[1;31m--------------------------[0;m
+[1;31m	EMPTY[0;m
