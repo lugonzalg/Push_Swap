@@ -1,34 +1,24 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   hex_to_str.c                                       :+:      :+:    :+:   */
+/*   ft_findarr.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: lugonzal <lugonzal@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/08/19 21:17:16 by lugonzal          #+#    #+#             */
-/*Updated: 2021/08/19 21:17:21 by lugonzal               ###   ########.fr    */
+/*   Created: 2021/09/02 15:47:31 by lugonzal          #+#    #+#             */
+/*Updated: 2021/09/02 15:48:04 by lugonzal               ###   ########.fr    */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
-
-void	hex_to_str(uintptr_t n, char *hex)
+int	ft_findarr(int *arr, int size, int key)
 {
 	int	i;
 
-	i = 0;
-	if (n >= 16)
+	i = -1;
+	while (++i < size)
 	{
-		hex_to_str(n / 16, hex);
-		hex_to_str(n % 16, hex);
+		if (arr[i] == key)
+			return (i);
 	}
-	else if (n >= 0 && n < 17)
-	{
-		if (n > 9)
-			n += 39;
-		while (hex[i] != '\0')
-			i++;
-		hex[i] = n + 48;
-		hex[i + 1] = '\0';
-	}
+	return (-1);
 }

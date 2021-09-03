@@ -13,7 +13,7 @@
 #ifndef PUSH_SWAP_H
 # define PUSH_SWAP_H
 
-#include <stdlib.h>
+# include <stdlib.h>
 
 typedef struct s_data {
 	struct s_list	*head_a;
@@ -21,13 +21,17 @@ typedef struct s_data {
 	struct s_list	*tail_a;
 	struct s_list	*tail_b;
 	struct s_list	*list;
+	struct s_list	*pivot;
 	char			**tab;
 	int				signal;
-	int				min;
-	char			*num;
-//	intptr_t		num;
+	intptr_t		num;
 	int				processes;
-	int				digit;
+	int				*arr;
+	int				*un;
+	int				size_u;
+	int				size_arr;
+	int				mid;
+	int				n;
 }	t_data;
 
 void	printf_list(t_data data, char *str, int *processes);

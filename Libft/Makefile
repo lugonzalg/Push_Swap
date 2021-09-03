@@ -59,7 +59,11 @@ FILES = mem/ft_memset \
 		ft_printf/extra_printf \
 		ft_printf/handle_types \
 		ft_printf/writf \
-		tools/scl_range 
+		tools/scl_range \
+		tools/ft_sort_arr \
+		tools/ft_duparr \
+		tools/ft_findarr \
+		tools/ft_findaprox
 
 FILES_B = list/ft_lstnew \
 		  list/ft_lstadd_front \
@@ -71,7 +75,8 @@ FILES_B = list/ft_lstnew \
 		  list/ft_lstclear \
 		  list/ft_lstiter \
 		  list/ft_lstmap \
-		  list/ft_lsttail_front
+		  list/ft_lsttail_front \
+		  list/ft_lst_int_array
 
 SRCS_DIR = ./
 SRCS = $(addprefix $(SRCS_DIR), $(addsuffix .c, $(FILES)))
