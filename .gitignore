@@ -1,5 +1,7 @@
 *.o
+*.a
 *.swp
 *.swo
 *.sh.swp
-
+checker*
+push_swap_*

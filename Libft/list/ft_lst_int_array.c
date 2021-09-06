@@ -11,10 +11,9 @@
 /* ************************************************************************** */
 
 #include <stdlib.h>
-#include <stdio.h>
 #include "../include/libft.h"
 
-int	*ft_lst_int(t_list *head,int *size)
+int	*ft_lst_int(t_list *head, int *size)
 {
 	int	*new_list;
 	int	i;

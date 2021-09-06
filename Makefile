@@ -1,16 +1,20 @@
 NAME= push_swap
 
 CC= Clang
-CFLAGS= -Wall -Werror -Wextra -fsanitize=address -g3
+CFLAGS= -Wall -Werror -Wextra #-fsanitize=address -g3
 RM= rm -rf
 AR= ar rcs
 
 LIBFT= -Llibft -lft
 
 FILES= push_swap \
-	   sort_moves \
-	   sort_list \
-	   print
+	   ft_handle_data \
+	   ft_tools \
+	   ft_sort_moves \
+	   ft_sort_moves_2 \
+	   ft_sort_moves_3 \
+	   ft_sort_list \
+	   ft_sort_list_2 \
 
 SRC = $(addsuffix .c, $(FILES))
 OBJ = $(addsuffix .o, $(FILES))

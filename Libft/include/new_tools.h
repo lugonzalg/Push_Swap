@@ -26,6 +26,8 @@ void	hex_to_str(uintptr_t n, char *hex);
 void	ft_sort_arr(int **arr, int size);
 int		*ft_duparr(int *arr, int size);
 int		ft_findarr(int *arr, int size, int key);
+int		ft_findarrb(int *arr, int size, int key);
 int		ft_findaprox(int *arr, int size, int key);
+int		ft_findaproxb(int *arr, int size, int key);
 
 #endif

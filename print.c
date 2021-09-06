@@ -63,9 +63,9 @@ void	printf_list(t_data data, char *str, int *processes)
 	{
 		while (data.head_a)
 		{
-			if ((int)data.head_a->content == data.mid)
-				ft_printf("CONTENT:\t\033[1;31m[%d]\033[0;m\n", (int)data.head_a->content);
-			else
+			//if ((int)data.head_a->content == data.mid)
+			//	ft_printf("CONTENT:\t\033[1;31m[%d]\033[0;m\n", (int)data.head_a->content);
+			//else
 				ft_printf("CONTENT:\t%d\n",(int)data.head_a->content);
 			data.head_a = data.head_a->next;
 		}
@@ -87,7 +87,7 @@ void	printf_list(t_data data, char *str, int *processes)
 	ft_printf("\n\033[1;34mMID_POS: %d\033[0;m", data.size_u / 2);
 	ft_printf("\n\033[1;34mSIZE: %d\033[0;m", data.size_arr);
 	ft_printf("\n\033[1;34mMID_POS: %d\033[0;m", data.size_arr / 2);
-	ft_printf("\n\033[1;34mMID_VALUE: %d\033[0;m", data.mid);
+	//ft_printf("\n\033[1;34mMID_VALUE: %d\033[0;m", data.mid);
 	if (data.arr)
 	{
 		ft_printf("\n\n\033[1;31m__________________________\033[0;m\n");
@@ -96,10 +96,10 @@ void	printf_list(t_data data, char *str, int *processes)
 		i = -1;
 		while (++i < data.size_arr)
 		{
-			if (data.mid == data.arr[i])
-				ft_printf("AUX_CONTENT: \033[1;31m[%d]\033[0;m\n", data.arr[i]);
-			else
-				ft_printf("AUX_CONTENT: %d\n", data.arr[i]);
+			//if (data.mid == data.arr[i])
+			//	ft_printf("AUX_CONTENT: \033[1;31m[%d]\033[0;m\n", data.arr[i]);
+			//else
+				ft_printf("AUX_CONTENT[%d]: %d\n", i, data.arr[i]);
 		}
 	}
 	if (data.un)
@@ -110,10 +110,10 @@ void	printf_list(t_data data, char *str, int *processes)
 		i = -1;
 		while (++i < data.size_u)
 		{
-			if (data.mid == data.un[i])
-				ft_printf("AUX_CONTENT: \033[1;31m[%d]\033[0;m\n", data.un[i]);
-			else
-				ft_printf("AUX_CONTENT: %d\n", data.un[i]);
+			//if (data.mid == data.un[i])
+			//	ft_printf("AUX_CONTENT: \033[1;31m[%d]\033[0;m\n", data.un[i]);
+			//else
+				ft_printf("UNS_CONTENT[%d]: %d\n", i, data.un[i]);
 		}
 	}
 }

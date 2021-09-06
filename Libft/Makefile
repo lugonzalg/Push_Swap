@@ -63,7 +63,9 @@ FILES = mem/ft_memset \
 		tools/ft_sort_arr \
 		tools/ft_duparr \
 		tools/ft_findarr \
-		tools/ft_findaprox
+		tools/ft_findarrb \
+		tools/ft_findaprox \
+		tools/ft_findaproxb 
 
 FILES_B = list/ft_lstnew \
 		  list/ft_lstadd_front \

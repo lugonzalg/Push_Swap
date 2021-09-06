@@ -1,27 +1,24 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_duparr.c                                        :+:      :+:    :+:   */
+/*   ft_findarrb.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: lugonzal <lugonzal@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/02 15:43:20 by lugonzal          #+#    #+#             */
-/*Updated: 2021/09/02 15:43:23 by lugonzal               ###   ########.fr    */
+/*   Created: 2021/09/05 21:02:23 by lugonzal          #+#    #+#             */
+/*Updated: 2021/09/05 21:02:25 by lugonzal               ###   ########.fr    */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
-
-int	*ft_duparr(int *arr, int size)
+int	ft_findarrb(int *arr, int size, int key)
 {
 	int	i;
-	int	*n_arr;
 
 	i = -1;
-	n_arr = (int *)malloc(sizeof(int) * size);
-	if (!n_arr)
-		return (NULL);
 	while (++i < size)
-		n_arr[i] = arr[i];
-	return (n_arr);
+	{
+		if (arr[size - i - 1] == key)
+			return (i);
+	}
+	return (-1);
 }

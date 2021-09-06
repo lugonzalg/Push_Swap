@@ -11,6 +11,7 @@
 /* ************************************************************************** */
 
 #include <stdlib.h>
+#include <stdio.h>
 #include "Libft/include/libft.h"
 #include "Libft/include/new_tools.h"
 #include "Libft/include/ft_printf.h"
@@ -31,10 +32,11 @@ intptr_t	atoi_alert(const char *str, int *signal)
 	while (*str)
 	{
 		out = out * 10 + (*str - 48);
-		if (!ft_isdigit(*str) || out > 2147483647 || out < -2147483648)
+		if (!ft_isdigit(*str)
+			|| out * neg > 2147483647 || out * neg < -2147483648)
 		{
 			*signal = 1;
-			return ((uintptr_t)0);
+			return (0);
 		}
 		str++;
 	}
@@ -50,77 +52,61 @@ char	*check_num(char *str)
 		i++;
 	while (str[i])
 	{
-		if(!ft_isdigit(str[i]))
+		if (!ft_isdigit(str[i]))
 			return (NULL);
 		i++;
 	}
 	return (str);
 }
 
-void	init_refs(t_data **data)
+int	set_value(t_data *data)
 {
-	(*data)->head_a = NULL;
-	(*data)->head_b = NULL;
-	(*data)->tail_a = NULL;
-	(*data)->tail_b = NULL;
-	(*data)->pivot = NULL;
-	(*data)->list = NULL;
+	int	n;
+
+	n = ft_lstsize(data->head_a);
+	if (n >= 100 && n < 500)
+		return (20);
+	else if (n < 100 && n > 6)
+		return (10);
+	else if (n >= 500)
+		return (35);
+	return (10);
 }
 
-void	create_list(char **tab, t_data *data)
+void	free_list(t_data *data)
 {
-	int	i;
-
-	init_refs(&data);
-	i = -1;
-	while (tab[++i])
+	while (data->head_a)
 	{
-		data->num = atoi_alert(tab[i], &data->signal);
-		//data->num = check_num(tab[i]);
-		if (data->signal)
-		{
-			ft_printf("ERROR %d -- %s\n", i, tab[i]);
-			//ft_printf("SIGNAL ABORT_0\n");
-			//ft_lstclear(data->head_a, NULL);
-			exit (0);
-		}
-		data->list = ft_lstnew((void *)data->num);
-		ft_lstadd_backtail(&data->head_a, data->list, &data->tail_a);
+		data->list = data->head_a;
+		data->head_a = data->head_a->next;
+		free(data->list);
 	}
-}
-
-void	set_arr(t_data *data, char type)
-{
-	if (type == 'a')
-		data->arr = ft_lst_int(data->head_a, &data->size_arr);
-	else
-		data->arr = ft_lst_int(data->head_b, &data->size_arr);
-	data->size_u = data->size_arr;
-	data->un = ft_duparr(data->arr, data->size_arr);
-	ft_sort_arr(&data->arr, data->size_arr);
+	free(data->arr);
+	free(data->un);
 }
 
 int	main(int argc, char **argv)
 {
 	t_data	data;
 
-	data.processes = 0;
 	if (argc > 1)
 	{
 		data.signal = 0;
 		if (argc == 2)
-		{
-			data.tab = ft_split(argv[1], ' ');
-			create_list(data.tab, &data);
-		}
+			create_list(ft_split(argv[1], ' '), &data, 1);
 		else
-			create_list(++argv, &data);
+			create_list(++argv, &data, 0);
 		set_arr(&data, 'a');
-		while (data.head_a->next->content != data.tail_a->content)
+		if (ft_lstsize(data.head_a) < 4)
+			sort_3(&data);
+		else if (ft_lstsize(data.head_a) < 6)
 			sort_list_a(&data);
-		set_arr(&data, 'b');
-		while (data.head_b)
-			sort_list_b(&data);
+		else
+		{
+			create_chunk(&data, set_value(&data));
+			sort_100(&data);
+		}
+		free_list(&data);
+		//system("leaks push_swap");
 	}
-	return (1);
 }

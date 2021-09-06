@@ -104,7 +104,7 @@ void	write_precision(t_code *f_code, char *handle)
 	}
 }
 
-void	writf(t_code *f_code, char *handle, void(*wr)(t_code *, char *))
+void	writf(t_code *f_code, char *handle, void (*wr)(t_code *, char *))
 {
 	if ((f_code->width > f_code->precision && f_code->precision > -1)
 		|| (f_code->type == 'c' && handle[0] == '0'))
